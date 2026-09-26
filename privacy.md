@@ -14,4 +14,4 @@ Giants is an app for exploring the papers that cite a scholarly work. It is desi
 
 **Purchases.** Optional tips are processed by Apple through In-App Purchase. We receive no personal or payment information.
 
-**Contact.** Questions about privacy: open an issue at [github.com/singingbing-code/giants/issues](https://github.com/singingbing-code/giants/issues).
+**Contact.** Questions about privacy: open an issue at [github.com/sdrbi/giants/issues](https://github.com/sdrbi/giants/issues).

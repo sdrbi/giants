@@ -1,6 +1,6 @@
 # Giants Support
 
-**Found a bug, have a question, or want a feature?** [Open an issue on GitHub](https://github.com/singingbing-code/giants/issues/new). Include your device (iPhone, iPad, or Mac), and the DOI of the tree if the problem is with a particular one.
+**Found a bug, have a question, or want a feature?** [Open an issue on GitHub](https://github.com/sdrbi/giants/issues/new). Include your device (iPhone, iPad, or Mac), and the DOI of the tree if the problem is with a particular one.
 
 ## Common questions
 
