@@ -2,10 +2,10 @@
 
 **See everything a paper went on to inspire.**
 
-Giants is an iPhone, iPad, and Mac app that grows a "family tree" of citations from any scholarly paper. Paste a DOI, and Giants finds every paper that cites it, then every paper that cites those, generation by generation, and draws them as a tree you can pan, zoom, search, and explore.
+Giants is an iPhone, iPad, and Mac app that grows a living map of citations from any scholarly paper. Paste a DOI, and Giants finds every paper that cites it, then every paper that cites those, generation by generation. Your paper sits at the surface, everything it inspired spreads out beneath it like roots, and a little plant above it grows from a sprout to a tree as its citations add up.
 
-- Trees of up to 100,000 papers
-- Tap any paper for its title, authors, journal, and abstract
+- Explore trees of tens of thousands of papers: drag, pinch, and tap any paper for its title, authors, journal, and abstract
+- Crowded branches gather into sheaves; tap one to spin through its papers on a carousel
 - Focus on one paper's line of descent
 - Search and browse by author, year, and journal
 - Checks your trees for new citations and lets you know what it finds
